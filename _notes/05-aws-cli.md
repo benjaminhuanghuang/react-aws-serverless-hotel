@@ -22,14 +22,6 @@ Create user in AWS "dynamoDbUser", Attach policy "dynamodb", get `Access key ID`
 ```
 
 
-## Crate DynamoDB table and load data
-```
-  node scripts/CreateMenuLinksTable.js
-  
-  node scripts/LoadMenuLinksData.js
-```
-
-
 
 
 
